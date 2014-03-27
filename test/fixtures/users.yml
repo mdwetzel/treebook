@@ -3,3 +3,9 @@ mark:
   last_name: "Wetzel"
   email: "mark@markwetzel.com"
   profile_name: "markwetzel"
+
+dan:
+  first_name: "Dan"
+  last_name: "Wetzel"
+  email: "dansalad@gmail.com"
+  profile_name: "danwetzel"
